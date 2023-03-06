@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8hvIc1NFCzFaHgKrFBc4m7pidgKVhqcQaOf9haosYQ2zYXyBXqY7Qcundhk0cRiuM7UTo07v7hzGzG+yfluDcg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\artem\\source\\repos\\CallingPythonCodeInCSharp\\CallingPythonCodeInCSharp\\CallingPythonCodeInCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\artem\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\pythonnet\\3.0.1\\pythonnet.3.0.1.nupkg.sha512",
+    "C:\\Users\\artem\\.nuget\\packages\\system.reflection.emit\\4.3.0\\system.reflection.emit.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

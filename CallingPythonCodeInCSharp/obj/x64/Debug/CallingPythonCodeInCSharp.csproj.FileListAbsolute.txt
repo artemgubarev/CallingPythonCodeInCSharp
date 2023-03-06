@@ -1,0 +1,10 @@
+C:\Users\artem\source\repos\CallingPythonCodeInCSharp\CallingPythonCodeInCSharp\bin\x64\Debug\CallingPythonCodeInCSharp.exe.config
+C:\Users\artem\source\repos\CallingPythonCodeInCSharp\CallingPythonCodeInCSharp\bin\x64\Debug\CallingPythonCodeInCSharp.exe
+C:\Users\artem\source\repos\CallingPythonCodeInCSharp\CallingPythonCodeInCSharp\bin\x64\Debug\CallingPythonCodeInCSharp.pdb
+C:\Users\artem\source\repos\CallingPythonCodeInCSharp\CallingPythonCodeInCSharp\bin\x64\Debug\Python.Runtime.dll
+C:\Users\artem\source\repos\CallingPythonCodeInCSharp\CallingPythonCodeInCSharp\obj\x64\Debug\CallingPythonCodeInCSharp.csproj.AssemblyReference.cache
+C:\Users\artem\source\repos\CallingPythonCodeInCSharp\CallingPythonCodeInCSharp\obj\x64\Debug\CallingPythonCodeInCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\artem\source\repos\CallingPythonCodeInCSharp\CallingPythonCodeInCSharp\obj\x64\Debug\CallingPythonCodeInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\artem\source\repos\CallingPythonCodeInCSharp\CallingPythonCodeInCSharp\obj\x64\Debug\CallingPythonCodeInCSharp.csproj.CopyComplete
+C:\Users\artem\source\repos\CallingPythonCodeInCSharp\CallingPythonCodeInCSharp\obj\x64\Debug\CallingPythonCodeInCSharp.exe
+C:\Users\artem\source\repos\CallingPythonCodeInCSharp\CallingPythonCodeInCSharp\obj\x64\Debug\CallingPythonCodeInCSharp.pdb
